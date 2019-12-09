@@ -26,3 +26,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/prometheus/procfs => github.com/usabilla/prometheus-procfs v0.0.9-0.20191209182924-0128ee69b0d7

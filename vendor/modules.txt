@@ -47,7 +47,7 @@ github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg
 github.com/prometheus/common/log
 github.com/prometheus/common/model
 github.com/prometheus/common/version
-# github.com/prometheus/procfs v0.0.8
+# github.com/prometheus/procfs v0.0.8 => github.com/usabilla/prometheus-procfs v0.0.9-0.20191209182924-0128ee69b0d7
 github.com/prometheus/procfs
 github.com/prometheus/procfs/bcache
 github.com/prometheus/procfs/internal/fs
